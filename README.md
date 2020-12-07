@@ -9,7 +9,7 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Vitae Live Demo](https://www.damine.wtf)
+[Vitae Live Demo](https://www.damine.tn)
 
 ## How to use it
 
